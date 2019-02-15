@@ -1,15 +1,51 @@
 <resources>
-    <string name="app_name">kisan_sevak</string>
-    
-    <string-array name="states">
-        <item>ANDAMAN AND NICOBAR ISLANDS</item>
-        <item>ANDHRA PRADESH</item>
-        <item>ARUNACHAL PRADESH</item>
-        <item>BIHAR</item>
-        <item>CHATTISGARH</item>
-        <item>GOA</item>
+    <string name="app_name">KISAN SEVAK</string>
 
-        
+    <string-array name="states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu And Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Pudhucherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telungana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarkhan</item>
+        <item>West Bengal</item>
+
+
+    </string-array>
+
+    <string-array name="seasons">
+        <item>KHARIF</item>
+        <item>WHOLE YEAR</item>
+        <item>AUTUMN</item>
+        <item>RABI</item>
+        <item>SUMMER</item>
+        <item>WINTER</item>
 
 
     </string-array>

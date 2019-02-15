@@ -61,7 +61,7 @@ public class Cropprediction extends AppCompatActivity {
         @Override
         protected Void doInBackground(Void... voids) {
 
-            String inpurl = "https://kisansevakproject.appspot.com/?state="+String.valueOf(statepos)+"&district= "+district+"&season="+String.valueOf(seasonpos);
+            String inpurl = "https://kisansevakproject.appspot.com/?state="+String.valueOf(statepos)+"&district="+district+"&season="+String.valueOf(seasonpos);
 
 
             try {
