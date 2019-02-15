@@ -38,13 +38,14 @@ public class HomePage extends AppCompatActivity {
                         Intent intent = new Intent(HomePage.this,MainActivity.class);
                         startActivity(intent);
                     }
-                    /*
-                    if(finalI==2)
+
+
+                    if(finalI==3)
                     {
-                        Intent intent = new Intent(MainActivity.this,main4.class);
+                        Intent intent = new Intent(HomePage.this,CostOfCrop.class);
                         startActivity(intent);
                     }
-                    **/
+
                 }
             });
         }

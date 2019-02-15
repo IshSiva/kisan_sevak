@@ -21,7 +21,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".GetInfo" />
-        <activity android:name=".Crop_info"></activity>
+        <activity android:name=".Crop_info" />
+        <activity android:name=".CostOfCrop" />
+        <activity android:name=".CostPerDistrict"></activity>
     </application>
 
 </manifest>

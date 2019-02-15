@@ -139,14 +139,16 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:layout_width="129dp"
-                    android:layout_height="197dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="75dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_launcher_background" />
+                    android:src="@drawable/camera"
+                     />
 
                 <TextView
                     android:textAlignment="center"
-                    android:text="Text3"
+                    android:text="DISEASE"
+                    android:layout_gravity="center"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -178,14 +180,15 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:layout_width="126dp"
-                    android:layout_height="208dp"
-                    android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_launcher_foreground" />
+                    android:layout_width="50dp"
+                    android:layout_height="70dp"
+
+                    android:layout_gravity="center"
+                    android:src="@drawable/rupee" />
 
                 <TextView
                     android:textAlignment="center"
-                    android:text="Text4"
+                    android:text="COST"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold"
