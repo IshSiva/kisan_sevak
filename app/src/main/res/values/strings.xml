@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">kisan_sevak</string>
+    
+    <string-array name="states">
+        <item>ANDAMAN AND NICOBAR ISLANDS</item>
+        <item>ANDHRA PRADESH</item>
+        <item>ARUNACHAL PRADESH</item>
+        <item>BIHAR</item>
+        <item>CHATTISGARH</item>
+        <item>GOA</item>
+
+        
+
+
+    </string-array>
+
+</resources>
